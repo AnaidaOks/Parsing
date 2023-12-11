@@ -41,7 +41,7 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-data.json
-data2.json
+/data.json
+/data2.json
 
-/.idea
+/.idea/
