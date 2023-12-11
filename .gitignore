@@ -41,7 +41,5 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-/data.json
-/data2.json
-
 /.idea/
+/gradle/
